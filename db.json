@@ -1,8 +1,8 @@
 {
-    "posts": [
+    "create-response": [
       {
-        "id": 1,
-        "title": "hello"
+        "id": 999999,
+        "status": "new"
       }
     ],
     "profile": {
