@@ -8,4 +8,15 @@
     "profile": {
       "name": "typicode"
     }
+    "posts": [
+        {
+            "id": 0,
+            "name": "name0",
+            "desc": "desc0",
+        },{
+            "id": 1,
+            "name": "name1",
+            "desc": "desc1",
+        }
+    ]
   }
