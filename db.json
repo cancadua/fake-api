@@ -1,13 +1,139 @@
 {
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "results":
+    [
+        {
+   "id": 0,
+   "user_id": 1,
+   "status": "active",
+   "title": "cokolwiek",
+   "url": "https://www.otomoto.pl",
+   "created_at": "2020-11-05 16:22:44",
+   "valid_to": "2020-12-05 16:22:51",
+   "description": "test desc test desc test desc test desc test desc test desc test desc test desc test desc ",
+   "category_id": 123,
+   "region_id": 123,
+   "city_id": 123,
+   "district_id": 123,
+   "municipality": "Łódź",
+   "city": {
+       "pl": "Łódź",
+       "en": "Łódź"
+   },
+   "district": {
+       "pl": "ddd",
+       "en": "ddd"
+   },
+   "coordinates": {
+       "latitude": 52.76454,
+       "longitude": 13.41237,
+       "radius": 0,
+       "zoom_level": 13
+   },
+   "advertiser_type": "business",
+   "contact": {
+       "person": "Testing Sp. z o.o.",
+       "phone_numbers": [
+           "23123123231"
+       ]
+   },
+   "params": {
+       "parts-type": "akcesori",
+       "delivery": "1",
+       "title": "Śruba",
+       "compatibility": [
+           {
+               "make": "audi"
+           }
+       ],
+       "manufacturer": "Meganeł",
+       "manufacturer_code": "PL01",
+       "make": "audi",
+       "price": {
+           "0": "price",
+           "1": 50,
+           "currency": "PLN",
+           "gross_net": "gross"
+       }
+   },
+   "photos": {
+       "1": {
+           "1080x720": "https://plus.unsplash.com/premium_photo-1664353833878-e1c82a79ad3d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       }
+   },
+   "image_collection_id": 951934228,
+   "new_used": "used",
+   "last_update_date": "2020-11-04 16:47:26",
+   "visible_in_profile": "1"
+},
+       {
+   "id": 1,
+   "user_id": 1,
+   "status": "active",
+   "title": "cokolwiek",
+   "url": "https://www.otomoto.pl",
+   "created_at": "2020-11-05 16:22:44",
+   "valid_to": "2020-12-05 16:22:51",
+   "description": "test desc test desc test desc test desc test desc test desc test desc test desc test desc ",
+   "category_id": 123,
+   "region_id": 123,
+   "city_id": 123,
+   "district_id": 123,
+   "municipality": "Łódź",
+   "city": {
+       "pl": "Łódź",
+       "en": "Łódź"
+   },
+   "district": {
+       "pl": "ddd",
+       "en": "ddd"
+   },
+   "coordinates": {
+       "latitude": 52.76454,
+       "longitude": 13.41237,
+       "radius": 0,
+       "zoom_level": 13
+   },
+   "advertiser_type": "business",
+   "contact": {
+       "person": "Testing Sp. z o.o.",
+       "phone_numbers": [
+           "23123123231"
+       ]
+   },
+   "params": {
+       "parts-type": "akcesori",
+       "delivery": "1",
+       "title": "Śruba",
+       "compatibility": [
+           {
+               "make": "audi"
+           }
+       ],
+       "manufacturer": "Meganeł",
+       "manufacturer_code": "PL01",
+       "make": "audi",
+       "price": {
+           "0": "price",
+           "1": 50,
+           "currency": "PLN",
+           "gross_net": "gross"
+       }
+   },
+   "photos": {
+       "1": {
+           "1080x720": "https://plus.unsplash.com/premium_photo-1664353833878-e1c82a79ad3d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       }
+   },
+   "image_collection_id": 951934228,
+   "new_used": "used",
+   "last_update_date": "2020-11-04 16:47:26",
+   "visible_in_profile": "1"
+}
+    ],
+    "is_last_page": true,
+    "is_first_page": true,
+    "current_page": 1,
+    "total_pages": 1,
+    "current_elements": 2,
+    "total_elements": 2
 }
